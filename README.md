@@ -25,3 +25,4 @@ Make sure you have **Node.js** installed.
 Made with ❤️ by **SYNTAXICAL**
 -
 Built on Manjaro Linux (Hyprland)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6da9a2f1-59e0-4a3a-b6a5-ab01cf7a1398" />
