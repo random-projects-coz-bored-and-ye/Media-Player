@@ -3,6 +3,8 @@
 Hey! Today I’m introducing my **Media Player** created by the one and only **[SYNTAXICAL](https://github.com/xxpwnxxx420lord)**. Yeah, it’s pretty cool.  
 
 DOWNLOAD BUILT VERSION: https://github.com/random-projects-coz-bored-and-ye/Media-Player/releases/tag/Latest
+THE RELEASE ALREADY HAS CONFIGED SONGS ON IT (linux & windows have different songs)
+TO CONFIGURE THE SONGS DOWNLOAD THE SOURCE CODE INSTALL THE PROJECT AND ADD SONGS USING `Src/Music` AND BUILD IT
 
 ---
 
