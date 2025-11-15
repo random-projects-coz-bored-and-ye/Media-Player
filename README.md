@@ -6,7 +6,9 @@ Hey! Today I’m introducing my **Media Player** created by the one and only **[
 
 ## Requirements
 
-Make sure you have **Node.js** installed.  
+Make sure you have **Node.js** installed.
+
+<span style="color:red"><b>IMPORTANT! ADD .MP3 FILES TO Src/Music THERES NONE DUE TO COPYRIGHT!</b></span>
 
 ### Project Dependencies:
 - `fs`  
