@@ -17,8 +17,7 @@ Make sure you have **Node.js** installed.
 ---
 
 ## Features
-- Simple media playback  
-- Cross-platform (Windows, Mac, Linux)  
+- Customizable (Custom themes, and customizable songs (add them at Src/Music/))
 - Easy file navigation  
 
 ---
