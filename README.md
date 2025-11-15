@@ -28,3 +28,4 @@ Made with ❤️ by **SYNTAXICAL**
 -
 Built on Manjaro Linux (Hyprland)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6da9a2f1-59e0-4a3a-b6a5-ab01cf7a1398" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc1a1235-4dc8-40cf-a76c-9779dc8716e0" />
