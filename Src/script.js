@@ -23,8 +23,6 @@ async function loadTrack(index) {
   audio.src = `file://${trackPath}`;
   audio.load();
 
-  // Do NOT reset isPlaying here to preserve play state on track change
-
   try {
     const tags = await window.api.readCover(trackPath);
     titleElem.textContent = tags.title || trackPath.split(path.sep).pop().replace('.mp3', '');
@@ -134,7 +132,6 @@ playBtn.addEventListener('click', togglePlay);
 nextBtn.addEventListener('click', nextTrack);
 PB.addEventListener('click', PreviousTrack);
 
-// Load the initial track
 if (tracks.length > 0) {
   loadTrack(currentIndex);
 }
