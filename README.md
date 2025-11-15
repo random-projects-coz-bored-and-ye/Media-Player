@@ -2,8 +2,8 @@
 
 Hey! Today I’m introducing my **Media Player** created by the one and only **[SYNTAXICAL](https://github.com/xxpwnxxx420lord)**. Yeah, it’s pretty cool.  
 
+DOWNLOAD BUILT VERSION: https://github.com/random-projects-coz-bored-and-ye/Media-Player/releases/tag/Latest
 
-**IT IS BUILDABLE, ITS NOT CONFIGURED TO BE BUILT, BUT IT SUPPORTS ELECTRON-BULIDER**
 ---
 
 ## Requirements
