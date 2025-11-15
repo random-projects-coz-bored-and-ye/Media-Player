@@ -2,6 +2,8 @@
 
 Hey! Today I’m introducing my **Media Player** created by the one and only **[SYNTAXICAL](https://github.com/xxpwnxxx420lord)**. Yeah, it’s pretty cool.  
 
+
+**IT IS BUILDABLE, ITS NOT CONFIGURED TO BE BUILT, BUT IT SUPPORTS ELECTRON-BULIDER**
 ---
 
 ## Requirements
