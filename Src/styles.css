@@ -1,0 +1,99 @@
+body {
+  background: linear-gradient(135deg, #e8c8be, #d7be9f);
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+h1 {
+  margin-top: 50px;
+  color: #4c484f;
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 2.2rem;
+}
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+  gap: 20px;
+  background: #f5f0eb;
+  padding: 30px;
+  border-radius: 25px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+}
+
+.Bazinga2 {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 20px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.Bazinga2:hover {
+  transform: scale(1.05);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.5);
+}
+
+.Title {
+  color: #4c484f;
+  font-size: 1.6rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.Author {
+  color: #c2734e;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.Bazinga {
+  width: 120px;
+  height: 120px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.Bazinga:hover {
+  transform: scale(1.15);
+}
+
+button {
+  background: #d19d87;
+  color: #4c484f;
+  border: none;
+  border-radius: 12px;
+  padding: 10px 25px;
+  margin: 5px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+
+button:hover {
+  transform: translateY(-2px);
+  background: #c2734e;
+}
+
+#volumeControl, #progressBar {
+  width: 220px;
+  margin-top: 15px;
+  accent-color: #c2734e;
+  cursor: pointer;
+}
+
+.controls {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
