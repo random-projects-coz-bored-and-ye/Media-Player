@@ -23,4 +23,5 @@ Make sure you have **Node.js** installed.
 ---
 
 Made with ❤️ by **SYNTAXICAL**
+-
 Built on Manjaro Linux (Hyprland)
